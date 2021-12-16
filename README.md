@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HarshGoutam
-- 👀 I’m interested in CP,AI,ML,WebDev,Android
+- 👀 I’m interested in CP,AI,ML,WebDev,Android,iOS
 - 📫 How to reach me -https://www.linkedin.com/in/harsh-goutam-39997521a
 
 <!---
