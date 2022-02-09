@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @HarshGoutam
+- CS Sophomore at Indian Institute of Information Technology, Bhopal
 - 👀 I’m interested in CP,AI,ML,WebDev,Android,iOS
 - 📫 How to reach me -https://www.linkedin.com/in/harsh-goutam-39997521a
 
