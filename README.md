@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HarshGoutam
-- CS Sophomore at Indian Institute of Information Technology, Bhopal
+- CSE Sophomore at Indian Institute of Information Technology, Bhopal
 - 👀 I’m interested in Competetive Programming, iOS, AI, ML, Android
 - 📫 How to reach me -https://www.linkedin.com/in/harsh-goutam-39997521a
 
